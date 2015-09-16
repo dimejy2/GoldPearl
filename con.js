@@ -1,4 +1,4 @@
-var url ='http://127.0.0.1:3000/act';  
+var url ='http://colab-sbx-306.oit.duke.edu:3000/act';  
 var chillApp = angular.module('chillApp', []); 
 
 chillApp.controller('chillAppCtrl',[ '$scope', '$http',  function($scope, $http){
